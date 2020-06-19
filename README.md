@@ -4,4 +4,5 @@
 
 ## Table of contents
 <hr/>
+
 1. [Map vs Object](src/MapVsObject.md)
