@@ -3,5 +3,5 @@
 
 
 ## Table of contents
-<hr>
+<hr/>
 1. [Map vs Object](src/MapVsObject.md)
