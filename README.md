@@ -5,3 +5,4 @@
 ## Table of contents
 
 1. [Map vs Object](src/MapVsObject.md)
+2. [map, filter, reduce](https://velog.io/@decody/map-%EC%A0%95%EB%A6%AC)
